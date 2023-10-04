@@ -1,6 +1,8 @@
 ### Hello world 👋
 
-Hello Wes Minton
+🌇 - Currently studying Computer Science at Vanderbilt
+
+🔭 - Interested in intersections between music, education, and generative AI
 
 <!--
 **jphiggzz/jphiggzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
