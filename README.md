@@ -1,4 +1,4 @@
-### Hello world 👋
+### Hello 👋
 
 🌇 - Currently studying Computer Science at Vanderbilt
 
