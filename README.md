@@ -1,13 +1,13 @@
-# 🌇 Currently studying Computer Science at Vanderbilt
-# 🔭 Interested in intersections between music, education, and generative AI
+### 🌇 Currently studying Computer Science at Vanderbilt
+### 🔭 Interested in intersections between music, education, and generative AI
 
 ![ChatEDU Main Page](https://github.com/chat-edu/chat-edu/blob/main/public/logo.png)
-## ChatEDU
+# ChatEDU
 Description: ChatEDU is an innovative AI-driven interactive tutoring platform that revolutionizes the way students learn. It offers personalized, real-time academic support, making education accessible and engaging for students everywhere.
 
 Technologies Used: Next.js + React, GPT-4 + Vercel AI SDK, Firebase Authentication and Firestore, ChakraUI
 
-### **<u>Vanderbilt Acorns</u>**
+# **<u>Vanderbilt Acorns</u>**
 
 **Overview:** A Vanderbilt Acorn is an ERC-721M NFT granting access to a token-gated ecosystem. It integrates with web3 protocols like Syndicate and Snapshot, and web2 platforms such as Google Cloud, GitHub, Discord, and Telegram. Unlike traditional NFTs known for trading value, the Acorn is non-transferrable and serves as an immutable record of one's affiliation with Vanderbilt.
 
