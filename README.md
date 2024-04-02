@@ -1,8 +1,5 @@
-### Hello 👋
-
-🌇 - Currently studying Computer Science at Vanderbilt
-
-🔭 - Interested in intersections between music, education, and generative AI
+# 🌇 Currently studying Computer Science at Vanderbilt
+# 🔭 Interested in intersections between music, education, and generative AI
 
 ![ChatEDU Main Page](https://github.com/chat-edu/chat-edu/blob/main/public/logo.png)
 ## ChatEDU
