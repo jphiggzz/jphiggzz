@@ -5,16 +5,16 @@ ChatEDU is an innovative AI-driven interactive tutoring platform that revolution
 
 Technologies Used: Next.js + React, GPT-4 + Vercel AI SDK, Firebase Authentication and Firestore, ChakraUI
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/jp-higgins/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align="center">
+  <a href="https://x.com/jpeg_higgins" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://chatedu.io/">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt=""/>
+  <a href="https://www.linkedin.com/in/jp-higgins/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[your-twitter-URL](https://x.com/jpeg_higgins)">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://chatedu.io" target="_blank">
+    <img alt="ChatEDU" src="https://raw.githubusercontent.com/your-org/your-repo/main/public/chatedu-logo.png" height="28" />
   </a>
-</div>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=jphiggzz&color=4caf50&style=for-the-badge)
