@@ -16,4 +16,5 @@ Technologies Used: Next.js + React, GPT-4 + Vercel AI SDK, Firebase Authenticati
     <img alt="ChatEDU" src="https://custom-icon-badges.demolab.com/badge/ChatEDU-4CAF50?style=for-the-badge&logoUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fchat-edu%2Fchat-edu%2Fmain%2Fpublic%2Flogo.png&logoWidth=20" />
   </a>
 </div>
+
 ![](https://komarev.com/ghpvc/?username=jphiggzz&color=4caf50&style=for-the-badge)
