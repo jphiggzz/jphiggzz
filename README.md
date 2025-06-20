@@ -5,7 +5,7 @@ ChatEDU is an innovative AI-driven interactive tutoring platform that revolution
 
 Technologies Used: Next.js + React, GPT-4 + Vercel AI SDK, Firebase Authentication and Firestore, ChakraUI
 
-<div align="center">
+<div align="start">
   <a href="https://x.com/jpeg_higgins" target="_blank">
     <img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
