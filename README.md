@@ -12,8 +12,8 @@ Technologies Used: Next.js + React, GPT-4 + Vercel AI SDK, Firebase Authenticati
   <a href="https://www.linkedin.com/in/jp-higgins/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="https://chatedu.io" target="_blank">
-    <img alt="ChatEDU" src="https://img.shields.io/badge/ChatEDU-0078E7?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAS1BMVEUAAACUlJSTk5OUlJSTk5OUlJSTk5OUlJSTk5OUlJSTk5OUlJSTk5OUlJSTk5OUlJSTk5OUlJSTk5OUlJSTk5OUlJSTk5OUlJSX7iLAAAAFHRSTlMAESIzRGVlt7/AwcXGx8fW2uDi5ebs8LQAAAB7SURBVBiVdc3LEoAgDIXhRyqF0e3+/09Yx5E+ht7pgAg8lmHVuG9Yb5Adc0lM0YhBbGiEUWsXqE/YKpqAnUPF9Jfr0QMpZ2uzn5V/SEhZ1EkWcND7TD4AV0L6f+iv9TwAAAABJRU5ErkJggg==" />
+ <a href="https://chatedu.io" target="_blank">
+    <img alt="ChatEDU" src="https://img.shields.io/badge/ChatEDU-0078E7?style=for-the-badge&logoUri=https://raw.githubusercontent.com/chat-edu/chat-edu/main/public/logo.png" />
   </a>
 </div>
 ![](https://komarev.com/ghpvc/?username=jphiggzz&color=4caf50&style=for-the-badge)
