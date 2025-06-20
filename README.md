@@ -7,14 +7,13 @@ Technologies Used: Next.js + React, GPT-4 + Vercel AI SDK, Firebase Authenticati
 
 <p align="center">
   <a href="https://x.com/jpeg_higgins" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jp-higgins/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://chatedu.io" target="_blank">
-    <img alt="ChatEDU" src="https://raw.githubusercontent.com/your-org/your-repo/main/public/favicon.png" height="28" />
+    <img alt="ChatEDU" src="https://your-cdn-or-raw-github-url.com/chatedu-logo.png" height="32" />
   </a>
 </p>
-
 ![](https://komarev.com/ghpvc/?username=jphiggzz&color=4caf50&style=for-the-badge)
