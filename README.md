@@ -13,7 +13,7 @@ Technologies Used: Next.js + React, GPT-4 + Vercel AI SDK, Firebase Authenticati
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://chatedu.io" target="_blank">
-    <img alt="ChatEDU" src="https://raw.githubusercontent.com/your-org/your-repo/main/public/chatedu-logo.png" height="28" />
+    <img alt="ChatEDU" src="https://raw.githubusercontent.com/your-org/your-repo/main/public/favicon.png" height="28" />
   </a>
 </p>
 
