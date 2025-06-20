@@ -12,8 +12,9 @@ Technologies Used: Next.js + React, GPT-4 + Vercel AI SDK, Firebase Authenticati
   <a href="https://www.linkedin.com/in/jp-higgins/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://chatedu.io" target="_blank">
-    <img alt="ChatEDU" src="https://custom-icon-badges.demolab.com/badge/ChatEDU-white?style=for-the-badge&logo=data:image/png;base64,YOUR_BASE64_LOGO" />
+  <a href="https://chatedu.io" target="_blank" style="display: inline-flex; align-items: center; padding: 6px 14px; background-color: #0078E7; border-radius: 4px; text-decoration: none; font-weight: 600; font-family: sans-serif; font-size: 14px; color: white;">
+    <img src="https://raw.githubusercontent.com/chat-edu/chat-edu/main/public/logo.png" alt="ChatEDU Logo" style="height: 20px; margin-right: 8px;" />
+    ChatEDU
   </a>
 </div>
 ![](https://komarev.com/ghpvc/?username=jphiggzz&color=4caf50&style=for-the-badge)
