@@ -17,4 +17,4 @@ Technologies Used: Next.js + React, GPT-4 + Vercel AI SDK, Firebase Authenticati
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=jphiggzz&color=4caf50&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=jphiggzz&color=4caf50&style=pixel)
